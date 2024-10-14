@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+}
+
+#photo-container{
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
